@@ -83,12 +83,13 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É O DR. SÉRGIO MURILO",
+    "title": "Minha trajetória",
+    "subtitle": "Compromisso com defesa ética e técnica em todas as fases do processo penal.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "a_Definir",
+    "paragraph": "Nossa jornada começou com um compromisso: oferecer uma defesa incondicional, baseada em valores como ética, transparência e honestidade. Acreditamos que, independentemente da acusação, todo indivíduo merece uma defesa técnica e respeitosa, ancorada nos direitos humanos.",
+    "modal": "Nossa jornada começou com um compromisso: oferecer uma defesa incondicional, baseada em valores como ética, transparência e honestidade. Acreditamos que, independentemente da acusação, todo indivíduo merece uma defesa técnica e respeitosa, ancorada nos direitos humanos. <br/><br/>Com o passar do tempo, nos especializamos nas áreas que exigem o mais alto nível de detalhe e estratégia: crimes de tráfico, lavagem de dinheiro, crimes contra a ordem tributária, júri popular e execução penal. Nosso trabalho não se limita ao tribunal; ele se inicia no momento mais crítico, como em um flagrante na delegacia, onde a agilidade e o conhecimento fazem toda a diferença.<br/><br/>O que nos diferencia é a união da tradição com a modernidade. Enquanto mantemos uma abordagem humanizada em cada atendimento, usamos a tecnologia como uma poderosa ferramenta para analisar casos, gerenciar informações e garantir a defesa mais eficaz possível. O Dr. Sergio Murilo está em constante aprimoramento, buscando solidificar nossa marca através da excelência e da busca incessante pela justiça.<br/><br/>Somos mais do que advogados; somos guardiões dos seus direitos. Essa é a essência da SERGIO MURILO ADVOCACIA CRIMINAL.",
+    "ctaModal": "Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {

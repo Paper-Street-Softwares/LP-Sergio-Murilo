@@ -20,6 +20,9 @@ export default function AboutModal() {
         </p>
 
         <Trans i18nKey="about.modal" components={{ br: <br /> }} />
+        <p className="mt-[25px] mb-[20px]">
+          <Trans i18nKey="about.ctaModal" />
+        </p>
 
         <div className="mt-4">
           <Button
