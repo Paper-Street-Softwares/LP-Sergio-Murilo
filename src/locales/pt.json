@@ -26,33 +26,33 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ATUAÇÃO",
+    "title": "Direito Criminal",
+    "subtitle": "Defesa técnica em todas as fases do processo penal.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Tráfico de Drogas",
+      "subtitle": "Defesa firme em acusações de tráfico de drogas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Lavagem de Dinheiro",
+      "subtitle": "Estratégia jurídica em casos de lavagem financeira.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Crimes Tributários",
+      "subtitle": "Atuação técnica em fraudes e delitos tributários.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Tribunal do Júri e Execução Penal",
+      "subtitle": "Defesa estratégica em julgamentos e execuções.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
