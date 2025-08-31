@@ -1,59 +1,58 @@
 {
   "infos": {
-    "adress": "A_Definir <br/> A_Definir",
+    "adress": "Rua Major Codeceira, <br/> nº 154 - Santo Amaro, <br/> Recife - PE, CEP: 50100-010",
     "adressSecundario": "A_Definir",
-    "expediente": "Segunda a sexta-feira: <br/> A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> 8h às 18h",
     "expedienteSecundario": "A_Definir",
-    "obs": "A_Definir"
+    "obs": "Atendimento 24h em casos de prisões em flagrantes."
   },
   "navbar": {
     "menuItems": {
       "home": "Início",
       "service": "Serviços",
       "about": "Sobre Nós",
-      "faq": "Perguntas Frequentes",
-      "maps": "Mapa"
+      "faq": "Perguntas Frequentes"
     },
     "ctaButtonText": "Contato",
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO CRIMINALISTA",
+    "title": "Acusado não é <span class=\"text-primary font-bold\">condenado</span>",
+    "subtitle": "Sua liberdade pode depender da defesa certa no momento certo.",
+    "ctaButtonText": "Quero minha defesa agora",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento 24h em casos de prisões em flagrantes."
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ATUAÇÃO",
+    "title": "Direito Criminal",
+    "subtitle": "Defesa técnica em todas as fases do processo penal.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Tráfico de Drogas",
+      "subtitle": "Defesa firme em acusações de tráfico de drogas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Lavagem de Dinheiro",
+      "subtitle": "Estratégia jurídica em casos de lavagem financeira.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Crimes Tributários",
+      "subtitle": "Atuação técnica em fraudes e delitos tributários.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Tribunal do Júri e Execução Penal",
+      "subtitle": "Defesa estratégica em julgamentos e execuções.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -84,19 +83,20 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É O DR. SÉRGIO MURILO",
+    "title": "Minha trajetória",
+    "subtitle": "Compromisso com defesa ética e técnica em todas as fases do processo penal.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph":"A_Definir",
-    "modal": "a_Definir",
+    "paragraph": "Nossa jornada começou com um compromisso: oferecer uma defesa incondicional, baseada em valores como ética, transparência e honestidade. Acreditamos que, independentemente da acusação, todo indivíduo merece uma defesa técnica e respeitosa, ancorada nos direitos humanos.",
+    "modal": "Nossa jornada começou com um compromisso: oferecer uma defesa incondicional, baseada em valores como ética, transparência e honestidade. Acreditamos que, independentemente da acusação, todo indivíduo merece uma defesa técnica e respeitosa, ancorada nos direitos humanos. <br/><br/>Com o passar do tempo, nos especializamos nas áreas que exigem o mais alto nível de detalhe e estratégia: crimes de tráfico, lavagem de dinheiro, crimes contra a ordem tributária, júri popular e execução penal. Nosso trabalho não se limita ao tribunal; ele se inicia no momento mais crítico, como em um flagrante na delegacia, onde a agilidade e o conhecimento fazem toda a diferença.<br/><br/>O que nos diferencia é a união da tradição com a modernidade. Enquanto mantemos uma abordagem humanizada em cada atendimento, usamos a tecnologia como uma poderosa ferramenta para analisar casos, gerenciar informações e garantir a defesa mais eficaz possível. O Dr. Sergio Murilo está em constante aprimoramento, buscando solidificar nossa marca através da excelência e da busca incessante pela justiça.<br/><br/>Somos mais do que advogados; somos guardiões dos seus direitos. Essa é a essência da SERGIO MURILO ADVOCACIA CRIMINAL.",
+    "ctaModal": "Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
-      "miniTag": "A_Definir",
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "labelInstagram": "A_Definir",
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
+      "labelInstagram": "Siga-me no Instagram",
       "labelFacebook": "A_Definir",
       "labelLinkedin": "A_Definir",
       "labelX": "A_Definir"
